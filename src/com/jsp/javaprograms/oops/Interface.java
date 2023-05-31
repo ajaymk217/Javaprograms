@@ -4,7 +4,7 @@ public interface Interface {
 	public void add();
 	public void substarct();
 	public void multplication();
-	
+}
 	class InterfaceImplementation implements Interface{
 
 		public static void main(String[] args) {
@@ -38,4 +38,4 @@ public interface Interface {
 		
 	}
 
-}
+
